@@ -1,18 +1,45 @@
 ---
-title: "Le titre de mon document"
-author: "Mon prénom et mon nom"
-date: "22/08/2020"
+title: "Le lion d'Afrique"
+author: "Ruthie et Bastin"
+date: "21/09/2020"
 output: html_document
 ---
 
 <!--- G.E.
 Cette balise en grisée est une consigne. Il n'est pas utile de la supprimer. Elle ne s'affiche pas dans votre document finale. Afin de compiler votre document, cliquez sur le bouton `knit`
 
-Vous trouverez ci-dessous un rappel des thématiques que vous pouvez inclure dans ce document :
+# lE LION #
 
-- Classification
-- Mode de vie
-- Alimentation
-- Reproduction
-- ...
---->
+
+# Classification*
+Le lion d'Arique est un **mammifère** quadrupède appartenant à la famille des *Felidae*. Son nom scientifique est *Panthero Leo*. Son statut de conservation indique comme étant une espèce vulnérable.
+
+
+* Règne : Animalia
+* Embranchement : Chordata
+* Classe : Mammifères
+* Ordre : Canivores
+* Famille : Félidés
+* Genre et espèce : *Panthera Leo* 
+
+
+
+# Mode de vie*
+Le lion vit généralement en groupes familiaux. Les jeunes lionceaux restent avec leur mère jusqu'à la puberté.
+
+Femelles          | Mâles
+----------------- | -------------
+Groupes familiaux | solitaire
+
+ 
+
+# Alimentation*
+Il est **carnivore strict**, c'est à dire qu'il se nourrit essentiellement de proies chassées dans son milieu naturel. Il se nourrit essentiellement de gnous, de zèbres, de gazelles. Il pratiquera deux techniques de chasse: à l'affut et à l'approche.
+
+
+# Reproduction* 
+Lors de la reproduction, les félidés adoptent généralement la position de la **lordose** afin de s'accoupler. La gestation dure généralement 110 jours. La portée compte en général 3-4 lionceaux. Les jeunes sont **nidicoles** car naissent aveugles et sourds, inermes.
+
+<https://www.nrcresearchpress.com/> 
+
+![Google image le lion d'Afrique](https://static.teteamodeler.com/media/cache/thumb_400/lion-explication-tete-a-modeler-du-mot-lion.jpeg)
